@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adarshthakur86299-creator.github.io/dharma-/sitemap.xml
